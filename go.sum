@@ -1,2 +1,4 @@
-github.com/syaukhul08/go-say-hello v1.0.0 h1:I16/sM7Xwj7pPBHfbii1lFPPGESkZO2zFXExwNSZhYE=
-github.com/syaukhul08/go-say-hello v1.0.0/go.mod h1:z7kcbHztFYLb2R26v9vRQSPRMh5kxw1YO63OL0Inhlk=
+github.com/syaukhul08/go-say-hello v1.2.0 h1:ieZjIOWP0GWs3jRBZneKQZWOLlabnjiNR+FNVV1y4yk=
+github.com/syaukhul08/go-say-hello v1.2.0/go.mod h1:z7kcbHztFYLb2R26v9vRQSPRMh5kxw1YO63OL0Inhlk=
+github.com/syaukhul08/go-say-hello/v2 v2.0.0 h1:hZ++r0Vugx2nx/H59E6+OmhOYgFN5eR8wC/H9nHHIq0=
+github.com/syaukhul08/go-say-hello/v2 v2.0.0/go.mod h1:72NqkHK4stpGpqov287vRW3g8wAbMSGgP+pcQirBHsc=
